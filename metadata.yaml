@@ -1,5 +1,8 @@
 _repo: Selling-Latin-America-A-Problem-in-International-Salesmanship-What-to-Sell-and-How-to-Sell-It_60150
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60150-h/images/cover.jpg
 creator:
   author:
     agent_name: Aughinbaugh, William Edmund
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50818'
     url: http://www.gutenberg.org/2009/agents/50818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60150#Selling-Latin-America-A-Problem-in-International-Salesmanship-What-to-Sell-and-How-to-Sell-It
 gutenberg_issued: '2019-08-22'
 gutenberg_type: Text
 identifiers:
